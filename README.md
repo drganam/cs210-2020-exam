@@ -45,8 +45,8 @@ After you have obtained a question, do the following:
 
 If you feel you are spending more time on the question and will likely not solve it, then go to step 6 to get a chance at solving the subsequent question. This way you will still get some points for the partially solved question. If you have time, you can go back to it later.
 
-## How do we grade the exam
+## How we grade your exam
 
-Each question is worth 10 points. If you do not manage to solve a particular question, you can skip to the next one. This way you will get some points for partially correct solutions, as indicated in the grader output (a grade of 9/10 gives you 9 points for that question). 
+Each question is worth 10 points. If you do not manage to solve a particular question, you can skip to the next one. This way you will get some points for partially correct solutions, as indicated in the grader output (a grade of 9/10 gives you 9 points for that question). An entire question can never be assigned a negative number of points; the least amount of points is zero.
 
 You need to push your code to GitLab to receive a grade. If you forget to submit your solution before the deadline, you will recieve zero points for that question.

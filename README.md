@@ -2,11 +2,9 @@
 
 Wednesday, 14 April 2021, 14:15
 
-This exam is open book in the sense that you are allowed to consult the PDF slides for all lectures in this course and the Functional Programming course.
+This exam is open book in the sense that you are allowed to consult the PDF slides for all lectures in this course and the Functional Programming course. The exam will cover all the material seen in the class up to week 6 (included).
 
-The exam consists of a list of programming assignments that you should solve using the usual tools from the class (git, sbt, and your favorite text editor).
-
-In addition to problem statements, each problem comes with a set of automated tests, just like for the labs. Your grade is determined by the number of these tests that pass. Also make sure to follow any additional requirements listed in the problem statement. Some of those requirements might not be covered by our automated tests and will be graded manually.
+The exam consists of four programming assignments that you should solve using the usual tools from the class (git, sbt, and your favorite text editor). In addition to problem statements, each problem comes with a set of automated tests, just like for the labs. Your grade is determined by the number of these tests that pass. Also make sure to follow any additional requirements listed in the problem statement. Some of those requirements might not be covered by our automated tests and will be graded manually.
 
 The TAs will be available on Discord during the exam. In case you have questions or need help, don’t hesitate to contact one of the TAs using Discord’s private messages or our public Discord channel. It is your responsibility to ensure that you have access to reliable internet connection, hardware, and software for the duration of the exam. Also make sure that you are comfortable using the usual tools from the class, so that you can focus on the exam.
 

@@ -1,6 +1,6 @@
-# CS210: Exam Dry Run
+# CS-210: Final Exam
 
-Friday, 18 December 2020, 10:15 - 12:00
+Tuesday, 26 January 2021, 8:15 - 11:15
 
 This exam is open book in the sense that you are allowed to consult the PDF slides for all lectures in this course.
 
@@ -20,13 +20,13 @@ Assignments will be available online at the start of the exam. Please clone the 
 git clone https://github.com/lampepfl/cs210-2020-exam.git
 ```
 
-Each assignment is published similarly to labs: the problem statements are given as markdown files in the following directory: https://github.com/lampepfl/cs210-2020-exam/tree/main/dryrun; the code skeleton for each problem is available in a separate branch of your private GitLab repository. Each student will receive a list of links to their questions before the exam by email.
+Each assignment is published similarly to labs: the problem statements are given as markdown files in the following directory: https://github.com/lampepfl/cs210-2020-exam/tree/main/exam; the code skeleton for each problem is available in a separate branch of your private GitLab repository. Each student will receive a list of links to their questions before the exam by email.
 
 ## How to submit questions
 
 Your answers are submitted by pushing your code on GitLab, just like the labs. After you submit your solution, you will receive a preliminary grade for that question. This information will be available in the GitLab CI. The tests executed on the CI are identical to those you can run locally. For detailed information, refer to labs submission instructions: https://gitlab.epfl.ch/lamp/cs210/-/blob/master/labs/grading-and-submission.md#committing-and-pushing-your-code.
 
-You are allowed to push multiple times for the same question (only the last commit will be considered). Furthermore, you are allowed to go back to your previous questions.
+You are allowed to push multiple times for the same question (only the last commit will be considered). Furthermore, you are allowed to go back to your previous questions and submit your answers out of order. We still recommend you to solve the exam in order, to avoid negative points (see examples in the last section).
 
 ## How to run tests
 
@@ -51,15 +51,15 @@ Each question you solve correctly gives you **10** points. A question is solved 
 
 Here are some examples of how we compute grades given the following question order:
 
-E1, E2, E3, E4, E5, E6, E7, E8
+Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10
 
 **Example 1**:
-You successfully solved questions E1 and E2, you partially solved or skipped question E3, and you successfully solved questions E4 and E5. You will get `10+10-3+10+10 =` 37 points.
+You successfully solved questions Q1 and Q2, you partially solved or skipped question Q3, and you successfully solved questions Q4 and Q5. You will get `10+10-3+10+10 = 37` points.
 
 **Example 2**:
-You skipped the first five questions and successfully solved questions E6 and E7. You will get `-3-3-3-3-3+10+10 = 5` points.
+You skipped the first five questions and successfully solved questions Q6 and Q7. You will get `-3-3-3-3-3+10+10 = 5` points.
 
 **Example 3**:
-You skipped the first seven questions and successfully solved question E8. You will get `-3-3-3-3-3-3-3+10 = -11` points, which will be rounded up to zero.
+You skipped the first seven questions and successfully solved question Q8. You will get `-3-3-3-3-3-3-3+10 = -11` points, which will be rounded up to zero.
 
-Given the exam format, those points will then be converted to traditional grades depending on the overall exam performance. Our aim is that a student who mastered the material can solve approximately 5 questions in this time period and obtain a maximum grade, taking into account small variations in question difficulty. This estimate is provided only to help your time planning.
+Given the exam format, those points will then be converted to traditional grades depending on the overall exam performance. Our aim is that a student who mastered the material can solve approximately 7 questions in this time period (taking into account small variations in question difficulty) and obtain a maximum grade, if they did not skip any questions. This estimate is provided only to help your time planning.

@@ -17,10 +17,10 @@ Your answers are submitted by pushing your code on GitLab. At the end of the exa
 Assignments will be available online at the start of the exam. Please clone the following repository to have access to problem statements in case you lose your internet connection:
 
 ```
-git clone TODO update link
+git clone https://github.com/lampepfl/cs206-2021-exam
 ```
 
-Each assignment is published similarly to labs: the problem statements are given as markdown files in the following directory: TODO update links; the code skeleton for each problem is available in a separate branch of your private GitLab repository. Each student will receive a list of links to their questions before the exam by email.
+Each assignment is published similarly to labs: the problem statements are given as markdown files in the following directory: https://github.com/lampepfl/cs206-2021-exam/tree/main/midterm; the code skeleton for each problem is available in a separate branch of your private GitLab repository. Each student will receive a list of links to their questions before the exam by email.
 
 ## How to submit questions
 

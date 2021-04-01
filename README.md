@@ -1,6 +1,6 @@
 # CS-206: Midterm Exam
 
-Wednesday, 14 April 2021, 14:15 TODO: add duration
+Wednesday, 14 April 2021, 14:15 - 17:00
 
 This exam is open book in the sense that you are allowed to consult the PDF slides for all lectures in this course and the Functional Programming course. The exam will cover all the material seen in the class up to week 6 (included).
 
@@ -8,7 +8,7 @@ The exam consists of four programming assignments that you should solve using th
 
 The TAs will be available on Discord during the exam. In case you have questions or need help, don’t hesitate to contact one of the TAs using Discord’s private messages or our public Discord channel. It is your responsibility to ensure that you have access to reliable internet connection, hardware, and software for the duration of the exam. Also make sure that you are comfortable using the usual tools from the class, so that you can focus on the exam.
 
-Your answers are submitted by pushing your code on GitLab. At the end of the exam, you will be given an extra 15 minutes to make sure that your solutions are uploaded and to handle any potential technical difficulties. Commits pushed after TODO TIME will not be graded.
+Your answers are submitted by pushing your code on GitLab. At the end of the exam, you will be given an extra 15 minutes to make sure that your solutions are uploaded and to handle any potential technical difficulties. Commits pushed after 17:15 will not be graded.
 
 *No cheating*: Each student must solve the exam individually. Consulting with anyone except the teaching staff of this course during the exam, copying solutions from the Internet, or making your solution available to anyone is considered cheating and a reason for disciplinary action. We will use plagiarism detection tools on your solutions. We reserve the right to follow up with some of you on Zoom after the scheduled slot and ask you about solutions to your or similar questions, whether or not we suspect you cheated; this possibility is a normal part of the examination this year.
 
